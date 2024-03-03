@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Wago-4t-5.0p")(type "KiCad")(uri "${KIPRJMOD}/wago-4t-5.0p.kicad_sym")(options "")(descr ""))
+  (lib (name "Wago-6t-5.0p")(type "KiCad")(uri "${KIPRJMOD}/wago-6t-5.0p.kicad_sym")(options "")(descr ""))
+)
